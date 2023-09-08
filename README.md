@@ -5,4 +5,5 @@
 
 
 
-![Uploading Attention_Unet.png…]()
+
+![Attention_Unet](https://github.com/manuel-ds/speech_emotion_recognition/assets/114148028/ae367651-00d8-475b-b2c0-99f7f441d994)
